@@ -10,3 +10,4 @@ NPM packages used `typescript`, `ts-node` , `nodemon`
 - `npm install`
 - `npm run dev`
 - You can make changes to the `/src/index.ts`
+- For building `npm run build`

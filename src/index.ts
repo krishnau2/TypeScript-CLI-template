@@ -1,6 +1,10 @@
 console.log("This is a test")
-console.log("This another test")
 
-let message: string = "KK"
-message = "kkk"
-console.log("Message", message)
+let message: string = "I am learning"
+message += " TypeScript"
+console.log("Message: ", message)
+
+// Uncomment the below lines to see the Type check errors
+
+// message = true;
+// message = 20;
